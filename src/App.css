@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+.box {
+  height: 50px;
+  width: 50px;
+}
+
+.container {
+    position: absolute;
+    top: 35%;
+    margin: auto;
+}
